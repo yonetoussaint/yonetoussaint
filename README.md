@@ -35,6 +35,20 @@
 
 <br/>
 
+## ▓▓ FEATURED
+
+<div align="center">
+
+<a href="https://github.com/yonetoussaint/mima"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yonetoussaint&repo=mima&border_radius=0&bg_color=FFE600&border_color=000000&title_color=000000&text_color=000000&icon_color=000000" alt="Mima" width="100%" /></a>
+
+<a href="https://github.com/yonetoussaint/REPO_TWO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yonetoussaint&repo=REPO_TWO&border_radius=0&bg_color=FF6B9D&border_color=000000&title_color=000000&text_color=000000&icon_color=000000" alt="Project two" width="100%" /></a>
+
+<a href="https://github.com/yonetoussaint/REPO_THREE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yonetoussaint&repo=REPO_THREE&border_radius=0&bg_color=00E5A0&border_color=000000&title_color=000000&text_color=000000&icon_color=000000" alt="Project three" width="100%" /></a>
+
+</div>
+
+<br/>
+
 ## ▓▓ STATS
 
 <div align="center">
@@ -48,6 +62,16 @@
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=yonetoussaint&hide_border=false&border_radius=0&background=00E5A0&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" alt="GitHub streak" width="100%" />
+
+</div>
+
+<br/>
+
+## ▓▓ ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yonetoussaint&bg_color=FFE600&color=000000&line=000000&point=FF6B9D&area=true&area_color=FF6B9D&hide_border=true&title_color=000000" alt="Contribution graph" width="100%" />
 
 </div>
 
