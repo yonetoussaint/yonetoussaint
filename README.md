@@ -39,11 +39,9 @@
 
 <div align="center">
 
-<a href="https://github.com/yonetoussaint/mima"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yonetoussaint&repo=mima&border_radius=0&bg_color=FFE600&border_color=000000&title_color=000000&text_color=000000&icon_color=000000" alt="Mima" width="100%" /></a>
+<a href="https://github.com/yonetoussaint/Mima_Marketplace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yonetoussaint&repo=Mima_Marketplace&border_radius=0&bg_color=FFE600&border_color=000000&title_color=000000&text_color=000000&icon_color=000000" alt="Mima Marketplace" width="100%" /></a>
 
-<a href="https://github.com/yonetoussaint/REPO_TWO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yonetoussaint&repo=REPO_TWO&border_radius=0&bg_color=FF6B9D&border_color=000000&title_color=000000&text_color=000000&icon_color=000000" alt="Project two" width="100%" /></a>
-
-<a href="https://github.com/yonetoussaint/REPO_THREE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yonetoussaint&repo=REPO_THREE&border_radius=0&bg_color=00E5A0&border_color=000000&title_color=000000&text_color=000000&icon_color=000000" alt="Project three" width="100%" /></a>
+<a href="https://github.com/yonetoussaint/Tchiley-pos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yonetoussaint&repo=Tchiley-pos&border_radius=0&bg_color=FF6B9D&border_color=000000&title_color=000000&text_color=000000&icon_color=000000" alt="Tchiley POS" width="100%" /></a>
 
 </div>
 
@@ -106,7 +104,7 @@
 <a href="mailto:yonetoussaint25@gmail.com"><img src="https://img.shields.io/badge/EMAIL-yonetoussaint25@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B9D" alt="Email" /></a>
 <br/>
 <a href="https://github.com/yonetoussaint"><img src="https://img.shields.io/badge/GITHUB-@yonetoussaint-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=FFE600" alt="GitHub" /></a>
-<a href="https://mimaht.com"><img src="https://img.shields.io/badge/WEBSITE-MIMA-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=00E5A0" alt="Mima" /></a>
+<a href="https://mimaht.com"><img src="https://img.shields.io/badge/WEBSITE-MIMA-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=00E5A0" alt="Mima Marketplace" /></a>
 
 <br/><br/>
 
