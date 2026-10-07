@@ -57,7 +57,19 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yonetoussaint&theme=flat&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=false" alt="GitHub trophies" width="100%" />
+<img src="./assets/trophies.svg" alt="GitHub trophies" width="448" />
+
+</div>
+
+<br/>
+
+## ▓▓ COMMUNITY
+
+<div align="center">
+
+<a href="https://github.com/yonetoussaint?tab=followers"><img src="https://img.shields.io/github/followers/yonetoussaint?style=for-the-badge&label=FOLLOWERS&color=000000&labelColor=FFE600&logo=github&logoColor=white" alt="Followers" /></a>
+<img src="https://img.shields.io/badge/OPEN_TO-COLLABS-000000?style=for-the-badge&labelColor=00E5A0" alt="Open to collabs" />
+<img src="https://img.shields.io/badge/ALWAYS-SHIPPING-000000?style=for-the-badge&labelColor=FF6B9D" alt="Always shipping" />
 
 </div>
 
