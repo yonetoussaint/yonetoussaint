@@ -2,14 +2,14 @@
   <rect x="12" y="12" width="200" height="200" fill="#000"/>
   <rect x="4" y="4" width="200" height="200" fill="#FFE600" stroke="#000" stroke-width="4"/>
   <rect x="144" y="4" width="60" height="52" fill="#000"/>
-  <text x="174" y="43" text-anchor="middle" font-family="Courier New, monospace" font-weight="900" font-size="34" fill="#FFE600">C</text>
+  <text x="174" y="43" text-anchor="middle" font-family="Courier New, monospace" font-weight="900" font-size="34" fill="#FFE600">B</text>
   <g transform="translate(26,26)" fill="#000">
     <path d="M10 0h60v26c0 18-12 30-30 30S10 44 10 26z"/>
     <path d="M10 6H0v8c0 10 6 16 14 18v-6c-4-2-6-6-6-12zM70 6h10v8c0 10-6 16-14 18v-6c4-2 6-6 6-12z"/>
     <rect x="35" y="54" width="10" height="14"/>
     <rect x="20" y="66" width="40" height="10"/>
   </g>
-  <text x="26" y="142" font-family="Courier New, monospace" font-weight="900" font-size="48" fill="#000">4</text>
+  <text x="26" y="142" font-family="Courier New, monospace" font-weight="900" font-size="48" fill="#000">5</text>
   <text x="26" y="176" font-family="Courier New, monospace" font-weight="700" font-size="18" letter-spacing="2" fill="#000">FOLLOWERS</text>
   <rect x="236" y="12" width="200" height="200" fill="#000"/>
   <rect x="228" y="4" width="200" height="200" fill="#FF6B9D" stroke="#000" stroke-width="4"/>
